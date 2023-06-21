@@ -29,7 +29,6 @@ Finally, the Rss library allows you to process news data in the RSS (Really Simp
 
 As a result, our news application provides a wide range of users with access to up-to-date news in several languages, facilitating the process of obtaining information and maintaining links with the external resource uzreport for news updates.
 
-TR: 
 
 ## Getting Started
 
