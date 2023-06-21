@@ -1,4 +1,4 @@
-# news_app
+# News App
 
 ![image](https://github.com/TashM26/News-App/assets/137183001/5ab46096-f797-42c1-b8d3-be8b51ecab3c)
 ![image](https://github.com/TashM26/News-App/assets/137183001/fc77457f-2af9-452e-8d1f-2ba7b073e399)
