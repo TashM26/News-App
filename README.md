@@ -1,5 +1,4 @@
 # news_app
-![image](https://github.com/TashM26/News-App/assets/137183001/4c2f9534-6ed4-4ef2-9f96-94dedf84e474)
 
 A new Flutter project.
 
