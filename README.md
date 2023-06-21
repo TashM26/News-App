@@ -3,6 +3,8 @@
 ![image](https://github.com/TashM26/News-App/assets/137183001/5ab46096-f797-42c1-b8d3-be8b51ecab3c)
 ![image](https://github.com/TashM26/News-App/assets/137183001/fc77457f-2af9-452e-8d1f-2ba7b073e399)
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 RU: Представляю вам приложение новостей с возможностью локализации на три языка: русский, узбекский и английский. Данное приложение получает новостные данные с ресурса uzreport, что позволяет пользователям быть в курсе последних событий в Узбекистане и в мире.
 
 Для реализации локализации и мультиязычной поддержки мы используем библиотеки intl, l10n, Provider, Http и Rss. Библиотека intl помогает нам с переводом текстовых элементов приложения на различные языки. Библиотека l10n позволяет управлять локализацией и переводами в приложении, обеспечивая гибкость и удобство для пользователей.
@@ -29,6 +31,7 @@ Finally, the Rss library allows you to process news data in the RSS (Really Simp
 
 As a result, our news application provides a wide range of users with access to up-to-date news in several languages, facilitating the process of obtaining information and maintaining links with the external resource uzreport for news updates.
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Getting Started
 
