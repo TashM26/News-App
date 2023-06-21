@@ -15,7 +15,7 @@ RU: Представляю вам приложение новостей с во�
 
 В итоге, наше приложение новостей обеспечивает широкий круг пользователей доступом к актуальным новостям на нескольких языках, облегчая процесс получения информации и поддерживая связь с внешним ресурсом uzreport для обновления новостей.
 
-EN https://emojiguide.com/flags/flag-united-kingdom/ : I present to you a news application with the ability to localize into three languages: Russian, Uzbek and English. This application receives news data from the uzreport resource, which allows users to keep abreast of the latest events in Uzbekistan and in the world.
+EN: I present to you a news application with the ability to localize into three languages: Russian, Uzbek and English. This application receives news data from the uzreport resource, which allows users to keep abreast of the latest events in Uzbekistan and in the world.
 
 To implement localization and multilingual support, we use the intl, l10n, Provider, Http and Rss libraries. The intl library helps us with translating the application's text elements into different languages. The l10n library allows you to manage localization and translations in your application, providing flexibility and convenience for users.
 
