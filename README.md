@@ -16,3 +16,18 @@ As a result, our news application provides a wide range of users with access to 
   <img src = "https://github.com/TashM26/News-App/assets/137183001/5ab46096-f797-42c1-b8d3-be8b51ecab3c" width = "300">
   <img src = "https://github.com/TashM26/News-App/assets/137183001/fc77457f-2af9-452e-8d1f-2ba7b073e399" width = "300">
 </div>
+
+# Reach me
+<div>
+    <a href="mailto:tashdevteam@gmail.com">
+      <img src="https://www.pngmart.com/files/16/Gmail-Logo-PNG-Transparent-Image.png" width = "18" height = "14" />
+      <span>Contact Me</span>
+    </a>
+</div>
+
+<div>
+    <a href="https://www.instagram.com/m26_tash">
+      <img src="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c521.png" width = "18" height = "16"/>
+      <span>Follow Me</span>
+    </a>
+</div>
