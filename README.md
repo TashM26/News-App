@@ -11,6 +11,13 @@
   Finally, the Rss library allows you to process news data in the RSS (Really Simple Syndication) format. It allows us to receive structured information about the news, such as headlines, texts and images, and present them to the user in a convenient and understandable format.
 As a result, our news application provides a wide range of users with access to up-to-date news in several languages, facilitating the process of obtaining information and maintaining links with the external resource uzreport for news updates.
 
+## Available Languages
+<ul>
+  <li><img src="https://static.vecteezy.com/system/resources/previews/016/328/983/original/united-kingdom-flat-rounded-flag-icon-with-transparent-background-free-png.png" width="16" height="16"> English</li>
+  <li><img src="https://static.vecteezy.com/system/resources/previews/011/571/337/non_2x/circle-flag-of-uzbekistan-free-png.png" width="16" height="16"> Uzbek</li>
+  <li><img src="https://static.vecteezy.com/system/resources/previews/016/328/914/original/russia-flat-rounded-flag-icon-with-transparent-background-free-png.png" width="16" height="16"> Russian</li>
+</ul>
+
 # Screens
 <div align = "center">
   <img src = "https://github.com/TashM26/News-App/assets/137183001/5ab46096-f797-42c1-b8d3-be8b51ecab3c" width = "300">
